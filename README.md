@@ -7,7 +7,7 @@ This repository contains code to reproduce results from the paper:
 [Xiaosen Wang](https://xiaosen-wang.github.io/), Xuanran He, Jingdong Wang, Kun He
 
 ## Requirements
-
+d
 + Python >= 3.6.5
 + Tensorflow >= 1.12.0
 + Numpy >= 1.15.4
